@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/letmeask/static/css/main.cd8cecd5.chunk.css",
+    "main.js": "/letmeask/static/js/main.4dcb84a4.chunk.js",
+    "main.js.map": "/letmeask/static/js/main.4dcb84a4.chunk.js.map",
+    "runtime-main.js": "/letmeask/static/js/runtime-main.511398bc.js",
+    "runtime-main.js.map": "/letmeask/static/js/runtime-main.511398bc.js.map",
+    "static/js/2.1ab947a8.chunk.js": "/letmeask/static/js/2.1ab947a8.chunk.js",
+    "static/js/2.1ab947a8.chunk.js.map": "/letmeask/static/js/2.1ab947a8.chunk.js.map",
+    "index.html": "/letmeask/index.html",
+    "static/css/main.cd8cecd5.chunk.css.map": "/letmeask/static/css/main.cd8cecd5.chunk.css.map",
+    "static/js/2.1ab947a8.chunk.js.LICENSE.txt": "/letmeask/static/js/2.1ab947a8.chunk.js.LICENSE.txt",
+    "static/media/google-icon.df15d8e5.svg": "/letmeask/static/media/google-icon.df15d8e5.svg",
+    "static/media/illustration.ae7276f0.svg": "/letmeask/static/media/illustration.ae7276f0.svg",
+    "static/media/logo.a88331cb.svg": "/letmeask/static/media/logo.a88331cb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.511398bc.js",
+    "static/js/2.1ab947a8.chunk.js",
+    "static/css/main.cd8cecd5.chunk.css",
+    "static/js/main.4dcb84a4.chunk.js"
+  ]
+}
