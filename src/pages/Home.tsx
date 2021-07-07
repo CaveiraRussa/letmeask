@@ -16,6 +16,8 @@ export function Home() {
   const {user, signInWithGoogle} = useAuth()
 
   async function handleCreateRoom() {
+    var teste = window.location.pathname
+    console.log(teste)
     if(!user){
       await signInWithGoogle()
     }
